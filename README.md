@@ -31,6 +31,6 @@ Namely you want to find a USB adapter with one of the following chipsets: RTL881
 
 
 #### Do I really need to buy a WiFi adapter?
-We are going to play around with the RSSI,Noise,Rate and so on in the labs. If your computer can capture the packets that contains these information(especially for RSSI), then **you dont need to buy a seperate WiFi adapter**. If you are not sure about this, the tutor will do the demo in lab1.
+We are going to play around with the RSSI,Signal strenth, Noise, Data Rate and so on in the labs. If your computer can capture the packets that contains these information(especially for RSSI), then **you dont need to buy a seperate WiFi adapter**. If you are not sure about this, the tutor will do the demo in lab1.
 ![image](https://user-images.githubusercontent.com/27357380/169868551-84398a7a-593b-44af-8d73-23edc4090ded.png)
 
