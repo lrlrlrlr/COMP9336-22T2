@@ -12,17 +12,20 @@ Getting started
    - [npcap libraries](https://blog.packet-foo.com/2019/04/wireless-capture-on-windows/comment-page-1/)
    - [latest version of wireshark](https://www.wireshark.org/#download)
    - [Network Monitor 3.4](https://www.microsoft.com/en-au/download/details.aspx?id=4865)
-
+   - [Useful reading for Windows setup](https://blog.packet-foo.com/2019/04/wireless-capture-on-windows/comment-page-1/)
 ### WiFi adapter that supports monitor mode
-Since we are going to capture the network traffic with your laptop in the labs. You may need to have a WiFi adapter to capture the 802.11 packets. 
+Since we are going to capture the network traffic with your laptop in the labs. You may need to have a WiFi adapter to capture the 802.11 packets. These WiFi adapters is also handy for your future security/pentest courses.
  
-
 #### what is monitor mode?  
   - monitor mode allows a computer with a wireless network interface controller (WNIC) to monitor all traffic received on a wireless channel.
 
 #### There are a number of possible USB WiFi adapters that support monitor mode. Here's a list that are popular:
-- [xxx](https://www.amazon.com/)
-- xxx todo
+ - ALFA Network AWUS1900
+ - COMFAST CF-958AC
+ - ASUS USB-AC68
+ - D-Link DWA-192
+ - TP-LINK Archer T9UH
+ - ALFA AWUS0ACH
 
 Namely you want to find a USB adapter with one of the following chipsets: RTL8814AU, RTL8812AU, Atheros AR9271, Atheros AR9721, Ralink RT3070, Ralink RT3572, or Ralink RT5572.
 
