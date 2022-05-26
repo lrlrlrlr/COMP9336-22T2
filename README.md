@@ -34,3 +34,34 @@ Namely you want to find a USB adapter with one of the following chipsets: RTL881
 We are going to play around with the RSSI,Signal strenth, Noise, Data Rate and so on in the labs. If your computer can capture the packets that contains these information(especially for RSSI), then **you dont need to buy a seperate WiFi adapter**. If you are not sure about this, the tutor will do the demo in lab1.
 ![image](https://user-images.githubusercontent.com/27357380/169868551-84398a7a-593b-44af-8d73-23edc4090ded.png)
 
+
+
+--------------------------------  
+## Lab1  (preview)
+ ### Installation
+  #### Mac
+  - Wireshark: to analyse the packets. [download link](https://www.wireshark.org/download.html)
+ #### Linux
+  - Wireshark: to analyse the packets.   
+   
+       Installation command:  
+       `sudo apt install wireshark`  
+   
+ #### Windows 10
+  - Wireshark: to analyse the packets. [download link](https://www.wireshark.org/download.html)
+  - Microsoft Network Monitor 3.4: to collect the 802.11 packets. [download link](https://www.microsoft.com/en-us/download/details.aspx?id=4865)
+  - Npcap: you may also need to install this to make Microsoft Network Monitor 3.4 working properly. [link](https://nmap.org/npcap/)
+
+
+ ### Basic operation of wireshark
+   video: [learn wireshark in 10min](https://www.youtube.com/watch?v=lb1Dw0elw0Q)  
+
+  You should be able to:  
+  - capture the packet
+  - open a .cap file
+  - apply a filter
+  - create/remove a column
+  - output to .CSV file
+--------------------------------  
+
+
