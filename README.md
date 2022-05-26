@@ -1,7 +1,6 @@
 # COMP9336-22T2
 
-WEEK 0: 
-Getting started 
+## WEEK 0: Getting started 
 ===============
 **Goal:** Setup the environment for the future labs. 
 
@@ -38,10 +37,17 @@ We are going to play around with the RSSI,Signal strenth, Noise, Data Rate and s
 
 --------------------------------  
 ## Lab1  (preview)
+**Goal:** 
+  1. Explain the course plan. 
+  2. Setup the environment for the labs and play with wireshark. 
+
+ ### CourseOutline
+ Link: https://www.cse.unsw.edu.au/~cs4336/outline_4336_9336__2022-T2.pdf 
+ 
  ### Installation
   #### Mac
   - Wireshark: to analyse the packets. [download link](https://www.wireshark.org/download.html)
- #### Linux
+  #### Linux
   - Wireshark: to analyse the packets.   
    
        Installation command:  
