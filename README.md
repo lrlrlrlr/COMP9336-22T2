@@ -33,10 +33,13 @@ Namely you want to find a USB adapter with one of the following chipsets: RTL881
 We are going to play around with the RSSI,Signal strenth, Noise, Data Rate and so on in the labs. If your computer can capture the packets that contains these information(especially for RSSI), then **you dont need to buy a seperate WiFi adapter**. If you are not sure about this, the tutor will do the demo in lab1.
 ![image](https://user-images.githubusercontent.com/27357380/169868551-84398a7a-593b-44af-8d73-23edc4090ded.png)
 
-
+#### alternative method for macOS to capture 802.11 packets 
+https://support.metageek.com/hc/en-us/articles/200907740-Wireless-Packet-Capture-with-macOS 
+Note: this method will let your mac enter the monitor mode and disconnected from the WiFi. 
 
 --------------------------------  
-## Lab1  (preview)
+## Lab1  
+  ### Lab1 SPEC: https://moodle.telt.unsw.edu.au/pluginfile.php/8143696/mod_resource/content/4/Lab1.pdf 
 **Goal:** 
   1. Explain the course plan. 
   2. Setup the environment for the labs and play with wireshark. 
@@ -69,5 +72,15 @@ We are going to play around with the RSSI,Signal strenth, Noise, Data Rate and s
   - create/remove a column
   - output to .CSV file
 --------------------------------  
+#### Week 1 Quiz review guide
+useful links:
+ - recording of lecture:  https://thebox.unsw.edu.au/video/video-lec-1 
+ - lecture slides: https://moodle.telt.unsw.edu.au/pluginfile.php/8143743/mod_resource/content/1/PHY_I_annonated.pdf 
+ - tips:
+  - Attend the quiz at 11:30! dont enter late since the quiz will close at 11:55.
+  - There are 10 Multiple choice question, you need to answer them in 25 minutes. Time is very limited!
+ - useful tools:
+  - 
 
+--------------------------------
 
