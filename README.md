@@ -80,7 +80,7 @@ useful links:
   - Attend the quiz at 11:30! dont enter late since the quiz will close at 11:55.
   - There are 10 Multiple choice question, you need to answer them in 25 minutes. Time is very limited!
  - useful tools:
-  - 
+  - (to be uploaded in thursday night)
 
 --------------------------------
 
