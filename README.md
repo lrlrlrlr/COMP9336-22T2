@@ -77,10 +77,11 @@ useful links:
  - recording of lecture:  https://thebox.unsw.edu.au/video/video-lec-1 
  - lecture slides: https://moodle.telt.unsw.edu.au/pluginfile.php/8143743/mod_resource/content/1/PHY_I_annonated.pdf 
  - tips:
-  - Attend the quiz at 11:30! dont enter late since the quiz will close at 11:55.
-  - There are 10 Multiple choice question, you need to answer them in 25 minutes. Time is very limited!
+   - Attend the quiz at 11:30! dont enter late since the quiz will close at 11:55.
+   - There are 10 Multiple choice question, you need to answer them in 25 minutes. Time is very limited!
  - useful tools:
-  - (to be uploaded in thursday night)
+   - Channel Capacity Calculator: https://www.satcomresources.com/shannon-hartley-channel-capacity-calculator 
+   - (more..to be uploaded in thursday night)
 
 --------------------------------
 
