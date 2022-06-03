@@ -81,7 +81,7 @@ useful links:
    - There are 10 Multiple choice question, you need to answer them in 25 minutes. Time is very limited!
  - useful tools:
    - Channel Capacity Calculator: https://www.satcomresources.com/shannon-hartley-channel-capacity-calculator 
-   - (more..to be uploaded in thursday night)
+  
 
 --------------------------------
 
