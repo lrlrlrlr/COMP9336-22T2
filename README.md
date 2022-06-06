@@ -1,7 +1,17 @@
 # COMP9336-22T2
+## USEFUL INFO  
+To attend Rui's on-line lab slots, use the following Zoom links: https://unsw.zoom.us/my/ruitut   
+There are 2 session in Wednesday:  
+   - Tutorial 1: Wed 14:00\~16:00  
+   - Tutorial 2: Wed 18:00\~20:00  
+
+You can also find the recording here: 
+  - [W14A](https://youtube.com/playlist?list=PL62Uy8LvT4FYHFXO7WBVxQTVweXGiYPEk)
+  - [W18A](https://youtube.com/playlist?list=PL62Uy8LvT4FazrBAZD9yQmMVcbhy3Q9aH)
+
 
 ## WEEK 0: Getting started 
-===============
+===============  
 **Goal:** Setup the environment for the future labs. 
 
 **The things should be installed:**
