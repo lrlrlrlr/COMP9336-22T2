@@ -91,7 +91,24 @@ useful links:
    - There are 10 Multiple choice question, you need to answer them in 25 minutes. Time is very limited!
  - useful tools:
    - Channel Capacity Calculator: https://www.satcomresources.com/shannon-hartley-channel-capacity-calculator 
-  
+   - other calculator provided by @Yuhua Zhao: https://github.com/EricZzXD/COMP9336_WebCal 
 
 --------------------------------
+## Lab2 
+  ### [Lab2 SPEC](https://moodle.telt.unsw.edu.au/pluginfile.php/8143697/mod_resource/content/5/Lab2.pdf)
+  #### general questions:
+  ##### 1. Task1 -- how to apply a new column / output the CSV file we need / generate the graph with Excel or Python?
+  Please check the recording of the lab.
+  ##### 2. Task2 -- There is no Noise and SNR? 
+  If you are using windows, then this issue is quite normal. Try to use macOS or linux to do the task it if you can. Otherwise just mention you are using windows in your report then it will be fine.
+  ##### 3. Task2 -- There is no SSID? 
+  The same as last question. But you still need to apply a "IP address filter"(i.e. ip.dst==your_pc_ip_addr) in this case. Please check the recording of the lab.
 
+--------------------------------  
+#### Week 2 Quiz review guide
+1. What is the subcarrier in OFDM system?  What is the relation with the channel bandwith?
+2. Conversion problem:  1 GHz = ? MHz 
+3. What is MIMO?
+4. Pathloss calculation: How to calculate D_break?
+5. Pathloss calculation: antenna gain=x dB, transmission power=y mW , receiver sensitivity=z dBm. What is the maximum distance D? 
+ 
