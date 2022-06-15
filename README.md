@@ -131,8 +131,11 @@ useful links:
 sample output for task2:   
 <!--    ![image](https://user-images.githubusercontent.com/27357380/173738623-82985fbc-d1c5-44ef-9768-2766a2737643.png) -->
    <img src="https://user-images.githubusercontent.com/27357380/173738623-82985fbc-d1c5-44ef-9768-2766a2737643.png" data-canonical-src="https://user-images.githubusercontent.com/27357380/173738623-82985fbc-d1c5-44ef-9768-2766a2737643.png" width="500" height="500" />
+   
 --------------------------------  
+
  #### Week 3 Quiz review guide  
+ 
    0. try to use ctrl+F: [lecture slides](https://moodle.telt.unsw.edu.au/pluginfile.php/8143773/mod_resource/content/1/WLAN_basics_annotated.pdf)  
    1. Go through all the example in the slides.  
    2. CSMA/CA(Hidden Node Problem): How to avoid collision?  
