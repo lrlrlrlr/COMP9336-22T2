@@ -128,10 +128,18 @@ useful links:
  - Use the logscale to plot the graph.  
  - Please check the recording if you have trouble to plot the graph.  
 
-sample output for task2:   
+sample output for task2-indoor:  
+Slope: y = -18.448 x + -33.608  
+![image](https://user-images.githubusercontent.com/27357380/173788960-9b855cc0-c516-4898-8c33-248832fbcd29.png)
+![image](https://user-images.githubusercontent.com/27357380/173789002-436314fc-c050-4af2-9758-ce6c6a62432a.png)
+
+
+
+
+
 <!--    ![image](https://user-images.githubusercontent.com/27357380/173738623-82985fbc-d1c5-44ef-9768-2766a2737643.png) -->
-   <img src="https://user-images.githubusercontent.com/27357380/173738623-82985fbc-d1c5-44ef-9768-2766a2737643.png" data-canonical-src="https://user-images.githubusercontent.com/27357380/173738623-82985fbc-d1c5-44ef-9768-2766a2737643.png" width="500" height="500" />
-   
+<!--    <img src="https://user-images.githubusercontent.com/27357380/173788960-9b855cc0-c516-4898-8c33-248832fbcd29.png" data-canonical-src="https://user-images.githubusercontent.com/27357380/173788960-9b855cc0-c516-4898-8c33-248832fbcd29.png" width="500" height="500" />
+      <img src="https://user-images.githubusercontent.com/27357380/173789002-436314fc-c050-4af2-9758-ce6c6a62432a.png" data-canonical-src="https://user-images.githubusercontent.com/27357380/173789002-436314fc-c050-4af2-9758-ce6c6a62432a.png" width="500" height="500" /> -->
 --------------------------------  
 
  #### Week 3 Quiz review guide  
