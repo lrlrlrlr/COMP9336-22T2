@@ -112,3 +112,30 @@ useful links:
 4. Pathloss calculation: How to calculate D_break?
 5. Pathloss calculation: antenna gain=x dB, transmission power=y mW , receiver sensitivity=z dBm. What is the maximum distance D? 
  
+--------------------------------
+## Lab3
+  ### [Lab3 SPEC](https://moodle.telt.unsw.edu.au/pluginfile.php/8143698/mod_resource/content/7/Lab3.pdf)
+   #### task 1:   
+   collect the RSS data in different distance.  
+   Important hint:    
+       - make sure the height is remain the same;  
+       - make sure there is nothing between your devices.  
+   
+<!--    ![image](https://user-images.githubusercontent.com/27357380/173738758-1898248e-4e2b-44f9-87f5-b08a0828810b.png) -->
+   <img src="https://user-images.githubusercontent.com/27357380/173738758-1898248e-4e2b-44f9-87f5-b08a0828810b.png" data-canonical-src="https://user-images.githubusercontent.com/27357380/173738758-1898248e-4e2b-44f9-87f5-b08a0828810b.png" width="500" height="500" />  
+   
+   #### task 2:   
+ - Use the logscale to plot the graph.  
+ - Please check the recording if you have trouble to plot the graph.  
+
+sample output for task2:   
+<!--    ![image](https://user-images.githubusercontent.com/27357380/173738623-82985fbc-d1c5-44ef-9768-2766a2737643.png) -->
+   <img src="https://user-images.githubusercontent.com/27357380/173738623-82985fbc-d1c5-44ef-9768-2766a2737643.png" data-canonical-src="https://user-images.githubusercontent.com/27357380/173738623-82985fbc-d1c5-44ef-9768-2766a2737643.png" width="500" height="500" />
+--------------------------------  
+#### Week 3 Quiz review guide
+0. try to use ctrl+F: [lecture slides](https://moodle.telt.unsw.edu.au/pluginfile.php/8143773/mod_resource/content/1/WLAN_basics_annotated.pdf)
+1. Go through all the example in the slides.
+2. CSMA/CA(Hidden Node Problem): How to avoid collision?
+3. What is SIFS?
+4. Channel selection for WiFi, how to avoid collision.
+ 
