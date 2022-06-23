@@ -162,4 +162,8 @@ Slope: y = -18.448 x + -33.608
          `coded bits per symbol = log2(QAM) * amount of data subcarriers `.   
          Try to calculate what is the max data rate for each version of 802.11.
    
-   7. 
+   3. Try to draw a table for each version of 802.11, what is their channel bandwidth, FEC, subcarriers, SIFS,  ...  
+   
+    |version        | subcarriers.  | coding rate.   | symbol interval| MIMO supported| ...           |
+    | ------------- | ------------- |  ------------- | -------------  | ------------- | ------------- |
+    |802.11 ax      |  ..           | ..             | ..             | ..            | ..            |
