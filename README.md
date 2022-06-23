@@ -150,3 +150,16 @@ Slope: y = -18.448 x + -33.608
    3. What is SIFS?  
    4. Channel selection for WiFi, how to avoid collision.  
  
+
+ #### Week 4 Quiz review guide  
+ 
+   0. try to use ctrl+F: [lecture slides](https://moodle.telt.unsw.edu.au/pluginfile.php/8143772/mod_resource/content/3/mainstream-wifi.pdf)  
+   1. Go through all the example in the slides.  (important)
+   2. Calculation:  
+      ` Data rate = symbol rate * data bits per symbol * MIMO stream`.   
+        ` symbol rate = 1/symbol interval`.   
+          `data bits per symbol = coding rate * coded bits per symbol `.   
+         `coded bits per symbol = log2(QAM) * amount of data subcarriers `.   
+         Try to calculate what is the max data rate for each version of 802.11.
+   
+   7. 
